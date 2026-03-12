@@ -202,4 +202,4 @@ Currency data handling
 
 👨‍💻 Author
 
-Developed as a #Ramzi
+Developed as a Ramzi
