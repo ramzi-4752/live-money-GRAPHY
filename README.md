@@ -62,10 +62,16 @@ Axios	API requests
 Chart.js	Data visualization
 React ChartJS 2	Chart integration with React
 📦 Installation Guide
+
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/currency-dashboard.git
+
+
 2️⃣ Navigate to Project Folder
 cd currency-dashboard
+
+
 3️⃣ Install Dependencies
 npm install
 
